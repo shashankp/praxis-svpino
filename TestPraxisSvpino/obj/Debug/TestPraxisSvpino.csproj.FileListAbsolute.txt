@@ -1,0 +1,7 @@
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\TestPraxisSvpino\obj\Debug\TestPraxisSvpino.csprojResolveAssemblyReference.cache
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\TestPraxisSvpino\bin\Debug\TestPraxisSvpino.dll
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\TestPraxisSvpino\bin\Debug\TestPraxisSvpino.pdb
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\TestPraxisSvpino\bin\Debug\PraxisSvpino.exe
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\TestPraxisSvpino\bin\Debug\PraxisSvpino.pdb
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\TestPraxisSvpino\obj\Debug\TestPraxisSvpino.dll
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\TestPraxisSvpino\obj\Debug\TestPraxisSvpino.pdb

@@ -1,0 +1,5 @@
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\PraxisSvpino\bin\Debug\PraxisSvpino.exe.config
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\PraxisSvpino\bin\Debug\PraxisSvpino.exe
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\PraxisSvpino\bin\Debug\PraxisSvpino.pdb
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\PraxisSvpino\obj\Debug\PraxisSvpino.exe
+c:\users\u0154248\documents\visual studio 2013\Projects\PraxisSvpino\PraxisSvpino\obj\Debug\PraxisSvpino.pdb
